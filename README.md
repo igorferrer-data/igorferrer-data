@@ -56,11 +56,11 @@ Espero que gostem!
 		return Brasília_DF()
 	
 	def Ambitions():
-		Aprender Francês()
-		Escrever um livro()
-		Criar um trabalho que impacte a sociedade()
-		Conhecer o Mundo()
-		Ser feliz!()
+		Aprender_Francês()
+		Escrever_um_livro()
+		Criar_um_trabalho_que_impacte_positivamente_a_sociedade()
+		Conhecer_o_Mundo()
+		Ser_feliz!()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
