@@ -45,12 +45,12 @@ Espero que gostem!
 		current_work = 'Suporte Técnico'
 		dream_work = 'Engenharia de Dados e Machine Learning'
 		hobbies = [
-				'Ler',
-				'Assistir Anime',
-				'Filmes de ficção científica, aventura e drama'
-				'Correr no parque contemplando a beleza da natureza'
-				'Viajar, viajar, viajar! já disse viajar?'
-			]
+			   'Ler',
+			   'Assistir Anime',
+			   'Filmes de ficção científica, aventura e drama',
+			   'Correr no parque contemplando a beleza da natureza',
+			   'Viajar, viajar, viajar! já disse viajar?'
+			   ]
 	
 	def getCity():
 		return Brasília_DF()
