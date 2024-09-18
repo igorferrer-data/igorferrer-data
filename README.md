@@ -17,9 +17,10 @@ Espero que gostem!
 * Python
 * Azure
 * IA
+
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorferrer-data&layout=compact">
 
-## Tecnologias que utilizo
+## :magic_wand: Tecnologias que utilizo
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
@@ -39,7 +40,7 @@ Espero que gostem!
           
           
 
- ## Quem sou eu?
+ ## :alien: Quem sou eu?
  ```python
  class WhoAmI:
  	user = 'Igor Ferrer'
@@ -66,12 +67,12 @@ Espero que gostem!
 	
  ```
  
-## Trabalhos atuais
- * :octocat: Estudando muito para aprimorar minhas habilidades 🌱 em **Engenharia de Dados e Machine Learning**.
+## :octocat: Trabalhos atuais
+ * 🌱Estudando muito para aprimorar minhas habilidades em **Engenharia de Dados e Machine Learning** :robot:.
  
-## Informações sobre meu GitHub
+## :chart_with_upwards_trend: Informações sobre meu GitHub
 ![IgorFerrer github stats](https://github-readme-stats.vercel.app/api?username=igorferrer-data&show_icons=true&hide=[%22issues%22])
-<img height="200"  src = https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGF5ejIzb2o2ZWpteHhjeDg3a2twZHQxNW9xMHdpMzR0bGNjbDRwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58OujxlE7e19Mjv0gj/giphy.webp alt = 'Homer PC Code' align='right'/>
+<img height="190"  src = https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGF5ejIzb2o2ZWpteHhjeDg3a2twZHQxNW9xMHdpMzR0bGNjbDRwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58OujxlE7e19Mjv0gj/giphy.webp alt = 'Homer PC Code' align='right'/>
 
 
  
