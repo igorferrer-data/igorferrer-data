@@ -11,7 +11,6 @@ Espero que gostem!
 ## :computer: Tecnologias em que estou evoluindo 
 <img height="250"  src = https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFyem85cnNhbTYxa2lieHM1Z3dnMnJ0MDA5cTVqdXB4d2FyOHlnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ad91OoLyqki6f0ICEe/giphy.webp alt = 'Homer PC Code' align='right'/>  
 
-  
 * Engenharia de Dados
 * Machine Learning
 * Python
@@ -68,7 +67,7 @@ Espero que gostem!
  ```
  
 ## :octocat: Trabalhos atuais
- * 🌱Estudando muito para aprimorar minhas habilidades em **Engenharia de Dados e Machine Learning** :robot:.
+ * 🌱 Estudando muito para aprimorar minhas habilidades em **Engenharia de Dados e Machine Learning** :robot:.
  
 ## :chart_with_upwards_trend: Informações sobre meu GitHub
 ![IgorFerrer github stats](https://github-readme-stats.vercel.app/api?username=igorferrer-data&show_icons=true&hide=[%22issues%22])
