@@ -70,8 +70,12 @@ Espero que gostem!
  * :octocat: Estudando muito para aprimorar minhas habilidades 🌱 em **Engenharia de Dados e Machine Learning**.
  
 ## Informações sobre meu GitHub
+<img height="190"  src = https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGF5ejIzb2o2ZWpteHhjeDg3a2twZHQxNW9xMHdpMzR0bGNjbDRwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58OujxlE7e19Mjv0gj/giphy.webp alt = 'Homer PC Code' align='right'/>
+
 
 ![IgorFerrer github stats](https://github-readme-stats.vercel.app/api?username=igorferrer-data&show_icons=true&hide=[%22issues%22])
+
+
  
  
 
