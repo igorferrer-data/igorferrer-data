@@ -1,6 +1,6 @@
 ## Oie, Igor aqui!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<h1>Seja bem vindo ao meu humilde repositório...</h1> 
+<h1>Seja bem vindo ao meu repositório...</h1> 
 
 <div style="text-align: left"> 
 Aqui você vai encontrar projetos e contribuições que refletem minha jornada de aprendizado contínuo na área de TI.
