@@ -11,11 +11,11 @@ Espero que gostem!
 ## :computer: Tecnologias em que estou evoluindo 
 <img height="250"  src = https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFyem85cnNhbTYxa2lieHM1Z3dnMnJ0MDA5cTVqdXB4d2FyOHlnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ad91OoLyqki6f0ICEe/giphy.webp alt = 'Homer PC Code' align='right'/>  
 
-* Engenharia de Dados
-* Machine Learning
-* Python
-* Azure
-* IA
+* 📖 Engenharia de Dados
+* 🧠 Machine Learning
+* 💻 Python
+* 💧 Azure
+* 🔍 IA
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorferrer-data&layout=compact">
 
