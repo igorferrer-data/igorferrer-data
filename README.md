@@ -6,18 +6,23 @@
 Aqui você vai encontrar projetos e contribuições que refletem minha jornada de aprendizado contínuo na área de TI.
 
 Espero que gostem!
-</div>
+  
 
-## :computer: Tecnologias em que estou evoluindo 
 <img height="250"  src = https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFyem85cnNhbTYxa2lieHM1Z3dnMnJ0MDA5cTVqdXB4d2FyOHlnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ad91OoLyqki6f0ICEe/giphy.webp alt = 'Homer PC Code' align='right'/>  
 
-* 🔧 Engenharia de Dados
-* 🧠 Machine Learning
-* 👨‍💻 Python
-* 💧 Azure
-* 🤖 IA
+</div> 
+
+
+## :computer: Tecnologias em que estou evoluindo   
+
+🔧 Engenharia de Dados  
+🧠 Machine Learning  
+👨‍💻 Python  
+💧 Azure  
+🤖 IA  
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorferrer-data&layout=compact">
+
 
 ## :magic_wand: Tecnologias que utilizo
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /></code>
