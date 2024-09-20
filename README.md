@@ -70,9 +70,9 @@ Espero que gostem!
 🌱 Estudando muito para aprimorar minhas habilidades em **Engenharia de Dados e Machine Learning** :robot:.
 
 ## :hammer_and_wrench: Bootcamps e Cursos
-<img src="https://hermes.dio.me/tracks/2a3a2d2b-7de7-457c-b4df-dcd327eae9eb.png" height="80"></a>
-<img src="https://hermes.dio.me/tracks/73b2de55-d67a-4dcc-8bea-4a16d0c4d30c.png" height="80"></a>
-<img src="https://hermes.dio.me/tracks/261135b9-67c9-4429-ad2d-418c11f1c34f.png" height="80"></a>
+[<img src="https://hermes.dio.me/tracks/2a3a2d2b-7de7-457c-b4df-dcd327eae9eb.png" height="80"></a>](https://web.dio.me/track/engenharia-dados-python)
+[<img src="https://hermes.dio.me/tracks/73b2de55-d67a-4dcc-8bea-4a16d0c4d30c.png" height="80"></a>](https://web.dio.me/track/microsoft-azure-essentials)
+[<img src="https://hermes.dio.me/tracks/261135b9-67c9-4429-ad2d-418c11f1c34f.png" height="80"></a>](https://web.dio.me/track/engenharia-prompts-aws)
 
 ## :bar_chart: Informações sobre meu GitHub
 ![IgorFerrer github stats](https://github-readme-stats.vercel.app/api?username=igorferrer-data&show_icons=true&hide=[%22issues%22]&rank_icon=github)
