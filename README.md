@@ -13,8 +13,8 @@ Espero que gostem!
 
 ⚙️ Engenharia de Dados  
 🧠 Machine Learning  
-👨‍💻 Python  
-💧  Azure  
+🤓 Python  
+☁️ Azure  
 🤖 IA  
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorferrer-data&layout=compact">
