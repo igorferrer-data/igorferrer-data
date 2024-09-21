@@ -10,7 +10,6 @@ Espero que gostem!
 
 ## :computer: Tecnologias em que estou evoluindo   
 <img height="250"  src = https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFyem85cnNhbTYxa2lieHM1Z3dnMnJ0MDA5cTVqdXB4d2FyOHlnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ad91OoLyqki6f0ICEe/giphy.webp alt = 'Homer PC Code' align='right'>
-<br/>
 
 ⚙️ Engenharia de Dados  
 🧠 Machine Learning  
@@ -20,7 +19,7 @@ Espero que gostem!
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorferrer-data&layout=compact">
 
-## :rocket: Tecnologias que utilizo
+## :toolbox: Tecnologias que utilizo
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
@@ -78,12 +77,9 @@ Espero que gostem!
 ![IgorFerrer github stats](https://github-readme-stats.vercel.app/api?username=igorferrer-data&show_icons=true&hide=[%22issues%22]&rank_icon=github)
 <img height="190"  src = https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGF5ejIzb2o2ZWpteHhjeDg3a2twZHQxNW9xMHdpMzR0bGNjbDRwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58OujxlE7e19Mjv0gj/giphy.webp alt = 'Robot Dancing' align='right'/>
 
+<!-- comentado
 ## :floppy_disk: Repositórios
 <a align="left" href="https://github.com/igorferrer-data/dio-lab-open-source" title="dio-lab-open-source"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=igorferrer-data&repo=dio-lab-open-source&theme=react&border_color=61dafb&border_radius=10"></a>
 
 <a align="right" href="https://github.com/igorferrer-data/igorferrer-data" title="igorferrer-data"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=igorferrer-data&repo=igorferrer-data&theme=react&border_color=61dafb&border_radius=10"></a>
-
-<br/>
-
- 
-
+-->
