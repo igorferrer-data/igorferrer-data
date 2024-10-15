@@ -61,8 +61,7 @@ Espero que gostem!
 		Criar_um_trabalho_que_impacte_positivamente_a_sociedade()
 		Conhecer_o_Mundo()
 		Ser_feliz()
-		# Assume 10 more awesome ambitions here  ;)
-	
+			
  ```
  
 ## :octocat: Trabalhos atuais
