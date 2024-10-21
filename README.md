@@ -17,27 +17,17 @@ Espero que gostem!
 🌩  Azure  
 🤖 IA  
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorferrer-data&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorferrer-data&theme=holi&layout=compact">
 
 ## :rocket: Tecnologias que utilizo
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<img title="Python" alt="Python" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></a>
+<img title="Azure" alt="Azure" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
+<img title="SQL" alt="SQL" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img title="MySql" alt="MySql" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
+<img title="VS Code" alt="VS Code" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"/>
+<img title="Git" alt="Git" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+<img title="AWS" alt="AWS" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firefox/firefox.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" /></code>
-          
-
-  
 ## :alien: Quem sou eu?
  ```python
  class WhoAmI:
@@ -68,12 +58,13 @@ Espero que gostem!
 🌱 Estudando muito para aprimorar minhas habilidades em **Engenharia de Dados e Machine Learning**.
 
 ## :hammer_and_wrench: Bootcamps e Cursos
-[<img src="https://hermes.dio.me/tracks/2a3a2d2b-7de7-457c-b4df-dcd327eae9eb.png" height="70"></a>](https://web.dio.me/track/engenharia-dados-python)
-[<img src="https://hermes.dio.me/tracks/73b2de55-d67a-4dcc-8bea-4a16d0c4d30c.png" height="70"></a>](https://web.dio.me/track/microsoft-azure-essentials)
-[<img src="https://hermes.dio.me/tracks/261135b9-67c9-4429-ad2d-418c11f1c34f.png" height="70"></a>](https://web.dio.me/track/engenharia-prompts-aws)
+[<img src="https://hermes.dio.me/tracks/2a3a2d2b-7de7-457c-b4df-dcd327eae9eb.png" height="80"></a>](https://web.dio.me/track/engenharia-dados-python)
+[<img src="https://hermes.dio.me/tracks/73b2de55-d67a-4dcc-8bea-4a16d0c4d30c.png" height="80"></a>](https://web.dio.me/track/microsoft-azure-essentials)
+[<img src="https://hermes.dio.me/tracks/261135b9-67c9-4429-ad2d-418c11f1c34f.png" height="80"></a>](https://web.dio.me/track/engenharia-prompts-aws)
 
 ## :bar_chart: Informações sobre meu GitHub
-![IgorFerrer github stats](https://github-readme-stats.vercel.app/api?username=igorferrer-data&show_icons=true&hide=[%22issues%22]&rank_icon=github)
+![IgorFerrer github stats](https://github-readme-stats.vercel.app/api?username=igorferrer-data&theme=holi&show_icons=true&hide=[%22issues%22]&rank_icon=github)
+
 <img height="190"  src = https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGF5ejIzb2o2ZWpteHhjeDg3a2twZHQxNW9xMHdpMzR0bGNjbDRwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58OujxlE7e19Mjv0gj/giphy.webp alt = 'Robot Dancing' align='right'/>
 
 <!-- comentado
