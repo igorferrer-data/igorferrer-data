@@ -20,20 +20,20 @@ Espero que gostem!
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorferrer-data&theme=holi&layout=compact">
 
 ## :rocket: Tecnologias que utilizo
-<img title="Python" alt="Python" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></a>
-<img title="Azure" alt="Azure" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
-<img title="SQL" alt="SQL" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img title="MySql" alt="MySql" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
-<img title="VS Code" alt="VS Code" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"/>
-<img title="Git" alt="Git" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-<img title="AWS" alt="AWS" height="50"  src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img title="Python" alt="Python" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></a>
+<img title="Azure" alt="Azure" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
+<img title="SQL" alt="SQL" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img title="MySql" alt="MySql" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
+<img title="VS Code" alt="VS Code" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"/>
+<img title="Git" alt="Git" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+<img title="AWS" alt="AWS" height="40"  src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
 
 ## :alien: Quem sou eu?
  ```python
  class WhoAmI:
  	user = 'Igor Ferrer'
 		current_work = 'Suporte Técnico'
-		dream_work = 'Engenharia de Dados e Machine Learning'
+		dream_work = 'Engenharia de Dados'
 		hobbies = [
 			   'Ler',
 			   'Assistir Filmes e Séries',
@@ -55,16 +55,18 @@ Espero que gostem!
  ```
  
 ## :octocat: Trabalhos atuais
-🌱 Estudando muito para aprimorar minhas habilidades em **Engenharia de Dados e Machine Learning**.
+🌱 Estudando para aprimorar minhas habilidades em **Engenharia de Dados**.
 
 ## :hammer_and_wrench: Bootcamps e Cursos
-[<img src="https://hermes.dio.me/tracks/2a3a2d2b-7de7-457c-b4df-dcd327eae9eb.png" height="80"></a>](https://web.dio.me/track/engenharia-dados-python)
-[<img src="https://hermes.dio.me/tracks/73b2de55-d67a-4dcc-8bea-4a16d0c4d30c.png" height="80"></a>](https://web.dio.me/track/microsoft-azure-essentials)
-[<img src="https://hermes.dio.me/tracks/261135b9-67c9-4429-ad2d-418c11f1c34f.png" height="80"></a>](https://web.dio.me/track/engenharia-prompts-aws)
+[<img src="https://hermes.dio.me/tracks/2a3a2d2b-7de7-457c-b4df-dcd327eae9eb.png" height="70"></a>](https://web.dio.me/track/engenharia-dados-python)
+[<img src="https://hermes.dio.me/tracks/73b2de55-d67a-4dcc-8bea-4a16d0c4d30c.png" height="70"></a>](https://web.dio.me/track/microsoft-azure-essentials)
+[<img src="https://hermes.dio.me/tracks/215922b3-e6ee-4c39-85be-b35d2b5c54fa.png" height="70"></a>](https://web.dio.me/track/microsoft-azure-advanced)
+[<img src="https://hermes.dio.me/tracks/261135b9-67c9-4429-ad2d-418c11f1c34f.png" height="70"></a>](https://web.dio.me/track/engenharia-prompts-aws)
+
+
 
 ## :bar_chart: Informações sobre meu GitHub
 ![IgorFerrer github stats](https://github-readme-stats.vercel.app/api?username=igorferrer-data&theme=holi&show_icons=true&hide=[%22issues%22]&rank_icon=github)
-
 <img height="190"  src = https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGF5ejIzb2o2ZWpteHhjeDg3a2twZHQxNW9xMHdpMzR0bGNjbDRwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58OujxlE7e19Mjv0gj/giphy.webp alt = 'Robot Dancing' align='right'/>
 
 <!-- comentado
