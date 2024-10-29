@@ -59,7 +59,7 @@ Espero que gostem!
 
 ## :hammer_and_wrench: Bootcamps e Cursos
 [<img src="https://hermes.dio.me/tracks/2a3a2d2b-7de7-457c-b4df-dcd327eae9eb.png" height="70"></a>](https://hermes.dio.me/certificates/cover/1YLBILEO.jpg)
-[<img src="https://hermes.dio.me/tracks/73b2de55-d67a-4dcc-8bea-4a16d0c4d30c.png" height="70"></a>](https://web.dio.me/track/microsoft-azure-essentials)
+[<img src="https://hermes.dio.me/tracks/73b2de55-d67a-4dcc-8bea-4a16d0c4d30c.png" height="70"></a>](https://hermes.dio.me/certificates/I1MILP6C.pdf)
 [<img src="https://hermes.dio.me/tracks/215922b3-e6ee-4c39-85be-b35d2b5c54fa.png" height="70"></a>](https://web.dio.me/track/microsoft-azure-advanced)
 [<img src="https://hermes.dio.me/tracks/261135b9-67c9-4429-ad2d-418c11f1c34f.png" height="70"></a>](https://web.dio.me/track/engenharia-prompts-aws)
 
