@@ -67,7 +67,8 @@ Espero que gostem!
 
 ## :bar_chart: Informações sobre meu GitHub
 
-![IgorFerrer github stats](https://github-readme-stats.vercel.app/api?username=igorferrer-data&theme=holi&show_icons=true&hide=[%22issues%22]&rank_icon=github).
+[![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=igorferrer-data)](https://github.com/igorferrer-data/github-readme-stats)
+
 <img height="190"  src = https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGF5ejIzb2o2ZWpteHhjeDg3a2twZHQxNW9xMHdpMzR0bGNjbDRwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58OujxlE7e19Mjv0gj/giphy.webp alt = 'Robot Dancing' align='right'/>
 
 <!-- comentado
